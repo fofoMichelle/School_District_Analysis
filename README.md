@@ -23,7 +23,7 @@ Adding Nan to all grade 9 at Thomas High School had the following impact on our 
 
 ![image](https://user-images.githubusercontent.com/99924850/160304622-5920190a-37a9-454f-acdd-bcaff1de9c32.png)
 
-***High and low performance original***
+***High and low performance updated***
 ![image](https://user-images.githubusercontent.com/99924850/160304644-ac15c099-9035-4796-aff3-6afddfacab02.png)
 ![image](https://user-images.githubusercontent.com/99924850/160304668-6138d391-ee6b-47d1-b81f-e307331be709.png)
 
