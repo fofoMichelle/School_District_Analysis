@@ -32,10 +32,13 @@ Adding Nan to all grade 9 at Thomas High School had the following impact on our 
 
 ## Impact on math and reading scores by grade
 ***Math and reading score original***
+
 ![image](https://user-images.githubusercontent.com/99924850/160305113-be59b8de-76df-4b54-b131-147034a58a6b.png)
+
 ![image](https://user-images.githubusercontent.com/99924850/160305198-97b881e5-14d9-4ca6-94a0-157da7197af9.png)
 
 ***Math and reading score updated***
+
 ![image](https://user-images.githubusercontent.com/99924850/160305245-257a74a6-e976-456e-a8f6-dabcfe06e73a.png)
 
 ![image](https://user-images.githubusercontent.com/99924850/160305268-c3401ed7-91da-4c35-814c-4e5f428f1100.png)
